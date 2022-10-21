@@ -5,6 +5,8 @@ public class Day1 {
 
         System.out.println("Work1");
 
+        System.out.println("Work2");
+
 
 
     }
